@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 <p align="center">
-  <img src="https://github.com/VipulDamor/flutter_xylophono_music_app/blob/master/images/Screenshot_1628772719.png" width="350" title="hover text">
+  <img src="https://github.com/VipulDamor/Flutter_Quiz/blob/master/images/Screenshot_1628772719.png" width="350" title="hover text">
 </p>
 
 This project is a starting point for a Flutter application.
